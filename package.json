@@ -1,0 +1,23 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "a project using nodejs and openweather api to show weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isacssw/Weather-Project.git"
+  },
+  "author": "Isac X",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isacssw/Weather-Project/issues"
+  },
+  "homepage": "https://github.com/isacssw/Weather-Project#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
